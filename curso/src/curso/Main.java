@@ -25,7 +25,7 @@ public class Main {
     System.out.printf(new Locale("pt", "BR"), "Rouded (three decimal places): %.3f%n", measure);
     System.out.printf(Locale.US, "US decimal point: %.3f%n", measure);
     
-    System.out.println("Exercício finalizado!!");
+    System.out.println("Exercício finalizado com sucesso!!");
 		
 	}
 
